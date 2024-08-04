@@ -1,5 +1,17 @@
 Hi 👋 My name is Preeti Sharma
-==============================Software Developer------------------I am passionate about computer engineering, and process optimization. Ownership and delivering results are some of my better traits. Learning and personal development captivates my mind while traveling and nature reconciles my soul.* 🌍  I'm based in Sao Paulo, Brazil* 🖥️  See my portfolio at [preetisharma.vercel.app](http://preetisharma.vercel.app)* ✉️  You can contact me at [preetisharma0123@gmail.com](mailto:preetisharma0123@gmail.com)* 🚀  I'm currently working on [Energy2Go](http://www.energy2go.com.br/)* 🧠  I'm learning Full Stack Development, React, Node, Vue, Docker.* 🤝  I'm open to collaborating on WhereIsMyBuddy* ⚡  Along with python and javascript I can also speak English, Hindi, Spanish and Portugues!!
+==============================
+
+Software Developer
+------------------
+
+I am passionate about computer engineering, and process optimization. Ownership and delivering results are some of my better traits. Learning and personal development captivates my mind while traveling and nature reconciles my soul.
+* 🌍  I'm based in Sao Paulo, Brazil
+* 🖥️  See my portfolio at [preetisharma.vercel.app](http://preetisharma.vercel.app)
+* ✉️  You can contact me at [preetisharma0123@gmail.com](mailto:preetisharma0123@gmail.com)
+* 🚀  I'm currently working on [Energy2Go](http://www.energy2go.com.br/)
+* 🧠  I'm learning Full Stack Development, React, Node, Vue, Docker.
+* 🤝  I'm open to collaborating on WhereIsMyBuddy
+* ⚡  Along with python and javascript I can also speak English, Hindi, Spanish and Portugues!!
 
 ### Skills
 
