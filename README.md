@@ -9,7 +9,7 @@ I am passionate about computer engineering, and process optimization. Ownership 
 * 🖥️  See my portfolio at [preetisharma.vercel.app](http://preetisharma.vercel.app)
 * ✉️  You can contact me at [preetisharma0123@gmail.com](mailto:preetisharma0123@gmail.com)
 * 🚀  I'm currently working on [Energy2Go](http://www.energy2go.com.br/)
-* 🧠  I'm learning Full Stack Development, React, Node, Vue, Docker.
+* 🧠  I'm a Full Stack Developer proficient in Vue.js, React, Node, python, Javascript, and Docker.
 * 🤝  I'm open to collaborating on WhereIsMyBuddy
 * ⚡  Along with python and javascript I can also speak English, Hindi, Spanish and Portugues!!
 
